@@ -58,3 +58,13 @@ Me chamo Andrey Batista, tenho 23 anos e sou natural do Amapá. Sou formado em C
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
   />
 </p>
+
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andreycrdss/Andreycrdss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andreycrdss/Andreycrdss/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Andreycrdss/Andreycrdss/output/github-contribution-grid-snake.svg">
+</picture>
+
+
