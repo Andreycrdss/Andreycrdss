@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Andrey Batista, tenho 23 anos e sou natural do Amapá. Sou formado em Ciência da Computação e possuo curso técnico em Manutenção e Suporte em Informática pelo Instituto Federal do Amapá (IFAP). Tenho grande interesse por programação, com foco principal em JavaScript, e sou apaixonado por tecnologias, sempre buscando aprender e me aperfeiçoar na área de desenvolvimento de software.
+Me chamo Andrey Batista, tenho 23 anos e sou natural do Amapá. Sou formado em Ciência da Computação e possuo curso técnico em Manutenção e Suporte em Informática pelo Instituto Federal do Amapá (IFAP). Tenho grande interesse por programação, com foco principal em JavaScript, e sou apaixonado por tecnologias, sempre buscando aprender e me aperfeiçoar na área.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/andrey-cardoso-8876ab3a2/" target="_blank">
